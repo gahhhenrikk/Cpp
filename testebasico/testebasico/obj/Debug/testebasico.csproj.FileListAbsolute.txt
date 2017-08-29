@@ -1,0 +1,6 @@
+C:\Users\MARCELO\Desktop\PROJETOS\testebasico\testebasico\bin\Debug\testebasico.exe.config
+C:\Users\MARCELO\Desktop\PROJETOS\testebasico\testebasico\bin\Debug\testebasico.exe
+C:\Users\MARCELO\Desktop\PROJETOS\testebasico\testebasico\bin\Debug\testebasico.pdb
+C:\Users\MARCELO\Desktop\PROJETOS\testebasico\testebasico\obj\Debug\testebasico.csprojResolveAssemblyReference.cache
+C:\Users\MARCELO\Desktop\PROJETOS\testebasico\testebasico\obj\Debug\testebasico.exe
+C:\Users\MARCELO\Desktop\PROJETOS\testebasico\testebasico\obj\Debug\testebasico.pdb

@@ -1,0 +1,5 @@
+﻿  struct.cpp
+c:\users\marcelo\desktop\projetos\struct\struct\struct.cpp(27): warning C4305: '=': truncamento de '__int64' para 'int'
+c:\users\marcelo\desktop\projetos\struct\struct\struct.cpp(27): warning C4309: '=': truncamento de valor constante
+  struct.vcxproj -> C:\Users\MARCELO\Desktop\PROJETOS\struct\Debug\struct.exe
+  struct.vcxproj -> C:\Users\MARCELO\Desktop\PROJETOS\struct\Debug\struct.pdb (Partial PDB)
